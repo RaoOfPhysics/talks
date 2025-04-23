@@ -1,0 +1,278 @@
+---
+#title: "Institutional <br>Science Communication <br>& Social Media"
+#subtitle: "[replace with URL to presentation]"
+#author: "Dr Achintya Rao"
+#institute: "UWE Bristol"
+#date: "2025-04-25"
+#date-format: "D MMM YYYY"
+format:
+  revealjs:
+    theme: default
+    embed-resources: true
+    menu: false
+    slide-number: h.v
+    incremental: true
+    chalkboard: false
+    controls: auto
+    history: false
+    progress: false
+    preview-links: false
+    multiplex: true
+    slide-level: 3
+    hashOneBasedIndex: true
+    hash-type: number
+    center: true
+    footer: '[talks.achintyarao.in/2025/inst-sci-comm](https://talks.achintyarao.in/2025/inst-sci-comm)'
+---
+
+## Institutional <br>Science Communication <br>& Social Media
+
+:::: {.columns}
+
+::: {.column width="60%"}
+Dr Achintya Rao
+
+<small>[achintya.rao@uwe.ac.uk](mailto:achintya.rao@uwe.ac.uk)</small>
+:::
+
+::: {.column width="40%"}
+![](images/link.png){width=60%}
+:::
+
+::::
+
+## Communicating Discoveries
+
+---
+
+<center>
+  <video controls>
+    <source src="images/Discoveries.mp4" type="video/mp4" />
+  </video>
+</center>
+
+## About me
+
+### Hi! 👋
+
+* Science Communication and Engagement Manager, COALESCE (based at UWE)
+
+* Science communicator with 12+ years of institutional scicomm experience, largely at CERN
+
+* Occasional freelance science journalist, mostly for _Physics World_
+
+* 👉 [a-ch.in/ty-a](https://a-ch.in/ty-a) (or [achintyarao.in](https://achintyarao.in))
+
+### Education
+
+* **BSc (_physics_)**, St. Xavier’s College, Bombay
+
+* **MA (_science journalism_)**, City University London
+
+* **PhD (_science communication_)**, UWE Bristol
+
+::: {.notes}
+Point out that educational trajectory isn’t that important, but this should contextualise my work and interests.
+:::
+
+### Career {.smaller}
+
+* **Science Content Writer**: Zeus Learning, Bombay (eight months)
+
+* **Intern**: BBC Radio Science Unit; _The Telegraph_; _Science Magazine_ (during MA)
+
+* **Science Writer and Communications Officer**: [CMS Experiment](https://cms.cern), CERN (7.5 years)
+
+* **Science Writer and Web Editor**: [CERN](https://home.cern) (3 years)
+
+* **Freelance journalist**: [_Physics World_](https://physicsworld.com) (now and then)
+
+* **Writer and editor**: [_Geneva Solutions_](https://genevasolutions.news) newsletter (three months)
+
+* **Community Manager**: [The Alan Turing Institute](https://www.turing.ac.uk) (>1 year)
+
+* **Science Communication and Engagement Manager**: [COALESCE project](https://coalesceproject.eu), at UWE (current role, since mid-2023)
+
+* **Web Developer**: [Fluid](https://f.luid.org), University of Cambridge (six months) – scientific storytelling
+
+## Institutional science communication: <br>cultures clashing?
+
+---
+
+<center>
+  <video controls>
+    <source src="images/Discoveries.mp4" type="video/mp4" />
+  </video>
+</center>
+
+## Defining “institutional <br>science communication”
+
+### How do we define it?
+
+* Based on what we are _not_ doing
+
+* Everything under the sun
+
+* “All” audiences ≡ vague, undefined audience
+
+* Internal audiences vs external audiences; themselves varied
+
+* …
+
+::: {.notes}
+Pause to ask question.
+:::
+
+### What kinds of institutions?
+
+* Research laboratories
+
+* European projects
+
+* Nature charities
+
+* Universities
+
+* Science centres
+
+* …
+
+### Scope of science communication
+
+* Share latest research
+
+* Celebrate milestones
+
+* Attract funding / donors
+
+* Engage with policy makers / government representatives
+
+* Recruitment (current and future)
+
+* Engaging with education
+
+* …
+
+## Roles in institional <br>science communication
+
+### Writing and editing
+
+- News and updates
+
+  - For whom?
+
+- Blog posts
+
+  - By whom?
+
+- Press releases
+
+- In-house publications
+
+- Reports: versions for different audiences
+
+- Scripts and captions
+
+### Multimedia
+
+- Photography and photo editing
+
+- Filming and video editing
+
+- Podcasts
+
+### Live events
+
+- Press conferences
+
+- Live streams of talks (technical or not)
+
+- Interactive Q&A sessions
+
+### Visits and on-site tours
+
+- Donors / potential donors
+
+- Press
+
+- School groups
+
+- Dignitaries
+
+- Wider public
+
+## Social media for institutions
+
+### Caveats
+
+* I have never used TikTok!
+
+* I miss the old Twitter
+
+* I have strong opinions on social media and ethics
+
+  * (slight understatement)
+
+### Expectations
+
+* Broadcast only
+
+* No reacting / re-sharing unofficial accounts
+
+* Use platforms with existing audiences
+
+* Collaborate with partner institutions only
+
+### Opportunities
+
+* New platforms for occasional activities
+
+  * [Hangouts on Google+](https://hangouts.web.cern.ch/hangouts/archive.html)
+
+  * [Reddit AMAs](https://www.reddit.com/r/IAmA/comments/37ldev/we_just_broke_a_world_record_at_the_large_hadron/)
+
+* Showcasing diversity
+
+* [Independent popsci communicators](https://www.youtube.com/watch?v=txq6ChEMqio)
+
+### Scientists and social media
+
+* What motivates them?
+
+* What gets in their way?
+
+  * Language? Culture?
+
+* Opportunities for development
+
+  * Who prefers which platform?
+
+  * Are we excluding people based on assumptions?
+
+## My lessons
+
+### How to embrace your role
+
+* Trust yourself; in most situations, you might be the expert
+
+* Earn trust; this happens gradually
+
+* Stand up for your principles, but gently if possible
+
+## Questions? {footer=false}
+
+<br>
+
+<br>
+
+📧 [achintya.rao@uwe.ac.uk](mailto:achintya.rao@uwe.ac.uk)
+
+🕸️ [a-ch.in/ty-a](https://a-ch.in/ty-a)
+
+🐘 [@RaoOfPhysics@scholar.social](https://scholar.social/@RaoOfPhysics)
+
+🦋 [@achintyarao.in](https://bsky.app/profile/achintyarao.in)
+
+::: footer
+&nbsp;
+:::
